@@ -1,6 +1,3 @@
 [submodule "MIN"]
 	path = MIN
 	url = git@github.com:Tony044/Exercices_Septembre.git
-[submodule "Exercices_septembre"]
-	path = Exercices_septembre
-	url = git@github.com:Tony044/Exercices_Septembre.git
